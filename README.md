@@ -4,7 +4,7 @@
 # 🔥 2. Student Management System (README.md)
 
 ```md
-# 🎓 Student Management System (C++)
+# 🎓 Student Management System (C++ / Python)
 
 A console-based Student Management System designed to store, manage, and analyze student records. This project demonstrates core programming concepts and data handling techniques.
 
@@ -38,8 +38,3 @@ A console-based Student Management System designed to store, manage, and analyze
 1. Compile:
    ```bash
    g++ main.cpp -o student
-
-👨‍💻 Author
-
-Muhammad Ali Shahid
-LinkedIn
